@@ -1,6 +1,6 @@
 <div>
  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <img width="140" height="80" alt="image" src="https://github.com/user-attachments/assets/3f19f181-094f-4366-b679-d78a03f323e0" /> 
 
